@@ -7,7 +7,7 @@ namespace Norakyo.Internal
 	internal sealed class RewiredConstantsCreator : EditorWindow
 	{
 		Rewired.InputManager inputManager;
-		[MenuItem("Tools/Yasukou/Constants")]
+		[MenuItem("Tools/Norakyo/RewiredConstantsCreator")]
 		static void Open()
 		{
 			EditorWindow.GetWindow<RewiredConstantsCreator>("RewiredConstantsCreator");
