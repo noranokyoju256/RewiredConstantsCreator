@@ -1,5 +1,7 @@
 # RewiredConstantsCreator
 
+**[Rewired](https://assetstore.unity.com/packages/tools/utilities/rewired-21676?locale=ja-JP) が必要です**
+
 ## 使い方
 * Tools/Norakyo/RewiredConstantsCreatorからウィンドウを開く
 * オブジェクトフィールドにオブジェクトをセットしてCreateを押す
